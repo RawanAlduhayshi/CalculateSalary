@@ -19,4 +19,3 @@
             println("The raise of your salary is ${raise}\nThe new salary is ${newSalary}")
         }
     }
-}
